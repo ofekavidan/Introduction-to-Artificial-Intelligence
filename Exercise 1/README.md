@@ -1,9 +1,9 @@
 
-<h1 align="center">AI Course - Exercise 1</h1>
+<h1 align="center">Exercise 1 - Blokus</h1>
 
 ## Project Overview
 
-This project is part of the **Artificial Intelligence** course at [your university's name]. The project implements various classic AI search algorithms and game-solving strategies. Specifically, the exercise explores solving puzzle problems like **Blokus** and **8-Puzzle**, using state-space search algorithms like **DFS (Depth First Search)**, **BFS (Breadth First Search)**, and more advanced heuristics.
+This project is part of the **Artificial Intelligence** course at [Huji]. The project implements various classic AI search algorithms and game-solving strategies. Specifically, the exercise explores solving puzzle problems like **Blokus** and **8-Puzzle**, using state-space search algorithms like **DFS (Depth First Search)**, **BFS (Breadth First Search)**, and more advanced heuristics.
 
 ## Repository Structure
 
